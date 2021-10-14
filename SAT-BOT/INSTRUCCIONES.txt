@@ -1,0 +1,6 @@
+CLICK INICIO
+ESCRIBIR CMD
+ENTER
+COPIAR Y PEGAS
+chrome.exe --remote-debugging-port=9250 --user-data-dir="C:/chromedriver2"
+ENTER
